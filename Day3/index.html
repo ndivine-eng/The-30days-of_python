@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Semantic Web Page</title>
+</head>
+<style>
+    /* CSS Syntax */
+h1 {
+    color: blue;      /* Changes text color */
+    font-size: 24px;  /* Sets font size */
+    text-align: center; /* Aligns text */
+}
+
+.box {
+    width: 200px;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+/* Styles for screens smaller than 768px (tablets & mobiles) */
+@media screen and (max-width: 768px) {
+    body {
+        background-color: lightgray;
+    }
+}
+
+
+/* Default styles (mobile) */
+body {
+    font-size: 16px;
+}
+
+/* Larger screen styles */
+@media screen and (min-width: 1024px) {
+    body {
+        font-size: 18px;
+    }
+}
+
+/* Using max-width: 100% */
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+/* Using the <picture> element for different resolutions:  */
+
+<picture>
+    <source srcset="image-small.jpg" media="(max-width: 600px)">
+    <source srcset="image-medium.jpg" media="(max-width: 1200px)">
+    <img src="image-large.jpg" alt="Responsive image">
+</picture>
+
+
+</style>
+<body>
+
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am Nubuhoro Divine, a passionate web developer exploring the world of web design and development.</p>
+    </section>
+
+    <section id="projects">
+        <h2>My Projects</h2>
+        <article>
+            <h3>Project 1: Smart Waste</h3>
+            <p>A Flutter app aimed at smart waste management.</p>
+        </article>
+        <article>
+            <h3>Project 2: AgriBioLoop</h3>
+            <p>A web platform to connect farmers and agribusiness professionals.</p>
+        </article>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Nubuhoro Divine. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
