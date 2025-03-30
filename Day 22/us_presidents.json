@@ -1,0 +1,425 @@
+[
+    {
+        "No.[a]": "",
+        "Portrait": "George Washington(1732\u20131799)[19]",
+        "Name(birth\u2013death)": "April 30, 1789\u2013March 4, 1797",
+        "Term[16]": "",
+        "Party[b][17]": "Unaffiliated",
+        "Election": "1788\u201389  1792",
+        "Vice President[18]": "John Adams[c]"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "John Adams(1735\u20131826)[21]",
+        "Name(birth\u2013death)": "March 4, 1797\u2013March 4, 1801",
+        "Term[16]": "",
+        "Party[b][17]": "Federalist",
+        "Election": "1796",
+        "Vice President[18]": "Thomas Jefferson[d]"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Thomas Jefferson(1743\u20131826)[23]",
+        "Name(birth\u2013death)": "March 4, 1801\u2013March 4, 1809",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic-Republican",
+        "Election": "1800  1804",
+        "Vice President[18]": "Aaron Burr  George Clinton"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "James Madison(1751\u20131836)[24]",
+        "Name(birth\u2013death)": "March 4, 1809\u2013March 4, 1817",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic-Republican",
+        "Election": "1808  1812",
+        "Vice President[18]": "George Clinton[e]  Vacant\u00a0afterApril 20, 1812  Elbridge Gerry[e]  Vacant\u00a0afterNovember 23, 1814"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "James Monroe(1758\u20131831)[26]",
+        "Name(birth\u2013death)": "March 4, 1817\u2013March 4, 1825",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic-Republican",
+        "Election": "1816  1820",
+        "Vice President[18]": "Daniel D. Tompkins"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "John Quincy Adams(1767\u20131848)[27]",
+        "Name(birth\u2013death)": "March 4, 1825\u2013March 4, 1829",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic-Republican[f]  National Republican",
+        "Election": "1824",
+        "Vice President[18]": "John C. Calhoun[g]"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Andrew Jackson(1767\u20131845)[30]",
+        "Name(birth\u2013death)": "March 4, 1829\u2013March 4, 1837",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic",
+        "Election": "1828  1832",
+        "Vice President[18]": "John C. Calhoun[h]  Vacant\u00a0afterDecember 28, 1832  Martin Van Buren"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Martin Van Buren(1782\u20131862)[31]",
+        "Name(birth\u2013death)": "March 4, 1837\u2013March 4, 1841",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic",
+        "Election": "1836",
+        "Vice President[18]": "Richard Mentor Johnson"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "William Henry Harrison(1773\u20131841)[32]",
+        "Name(birth\u2013death)": "March 4, 1841\u2013April 4, 1841[e]",
+        "Term[16]": "",
+        "Party[b][17]": "Whig",
+        "Election": "1840",
+        "Vice President[18]": "John Tyler"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "John Tyler(1790\u20131862)[33]",
+        "Name(birth\u2013death)": "April 4, 1841[i]\u2013March 4, 1845",
+        "Term[16]": "",
+        "Party[b][17]": "Whig[j]  Unaffiliated",
+        "Election": "\u2013",
+        "Vice President[18]": "Vacant\u00a0throughoutpresidency"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "James K. Polk(1795\u20131849)[36]",
+        "Name(birth\u2013death)": "March 4, 1845\u2013March 4, 1849",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic",
+        "Election": "1844",
+        "Vice President[18]": "George M. Dallas"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Zachary Taylor(1784\u20131850)[37]",
+        "Name(birth\u2013death)": "March 4, 1849\u2013July 9, 1850[e]",
+        "Term[16]": "",
+        "Party[b][17]": "Whig",
+        "Election": "1848",
+        "Vice President[18]": "Millard Fillmore"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Millard Fillmore(1800\u20131874)[38]",
+        "Name(birth\u2013death)": "July 9, 1850[k]\u2013March 4, 1853",
+        "Term[16]": "",
+        "Party[b][17]": "Whig",
+        "Election": "\u2013",
+        "Vice President[18]": "Vacant\u00a0throughoutpresidency"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Franklin Pierce(1804\u20131869)[40]",
+        "Name(birth\u2013death)": "March 4, 1853\u2013March 4, 1857",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic",
+        "Election": "1852",
+        "Vice President[18]": "William R. King[e]  Vacant\u00a0afterApril 18, 1853"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "James Buchanan(1791\u20131868)[41]",
+        "Name(birth\u2013death)": "March 4, 1857\u2013March 4, 1861",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic",
+        "Election": "1856",
+        "Vice President[18]": "John C. Breckinridge"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Abraham Lincoln(1809\u20131865)[42]",
+        "Name(birth\u2013death)": "March 4, 1861\u2013April 15, 1865[e]",
+        "Term[16]": "",
+        "Party[b][17]": "Republican  National Union[l]",
+        "Election": "1860  1864",
+        "Vice President[18]": "Hannibal Hamlin  Andrew Johnson"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Andrew Johnson(1808\u20131875)[44]",
+        "Name(birth\u2013death)": "April 15, 1865[m]\u2013March 4, 1869",
+        "Term[16]": "",
+        "Party[b][17]": "National Union[n]  Democratic",
+        "Election": "\u2013",
+        "Vice President[18]": "Vacant\u00a0throughoutpresidency"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Ulysses S. Grant(1822\u20131885)[45]",
+        "Name(birth\u2013death)": "March 4, 1869\u2013March 4, 1877",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "1868  1872",
+        "Vice President[18]": "Schuyler Colfax  Henry Wilson[e]  Vacant\u00a0afterNovember 22, 1875"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Rutherford B. Hayes(1822\u20131893)[46]",
+        "Name(birth\u2013death)": "March 4, 1877\u2013March 4, 1881",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "1876",
+        "Vice President[18]": "William A. Wheeler"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "James A. Garfield(1831\u20131881)[47]",
+        "Name(birth\u2013death)": "March 4, 1881\u2013September 19, 1881[e]",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "1880",
+        "Vice President[18]": "Chester A. Arthur"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Chester A. Arthur(1829\u20131886)[48]",
+        "Name(birth\u2013death)": "September 19, 1881[o]\u2013March 4, 1885",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "\u2013",
+        "Vice President[18]": "Vacant\u00a0throughoutpresidency"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Grover Cleveland(1837\u20131908)[50]",
+        "Name(birth\u2013death)": "March 4, 1885\u2013March 4, 1889",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic",
+        "Election": "1884",
+        "Vice President[18]": "Thomas A. Hendricks[e]  Vacant\u00a0afterNovember 25, 1885"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Benjamin Harrison(1833\u20131901)[51]",
+        "Name(birth\u2013death)": "March 4, 1889\u2013March 4, 1893",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "1888",
+        "Vice President[18]": "Levi P. Morton"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Grover Cleveland(1837\u20131908)[50]",
+        "Name(birth\u2013death)": "March 4, 1893\u2013March 4, 1897",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic",
+        "Election": "1892",
+        "Vice President[18]": "Adlai Stevenson\u00a0I"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "William McKinley(1843\u20131901)[52]",
+        "Name(birth\u2013death)": "March 4, 1897\u2013September 14, 1901[e]",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "1896  1900",
+        "Vice President[18]": "Garret Hobart[e]  Vacant\u00a0afterNovember 21, 1899  Theodore Roosevelt"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Theodore Roosevelt(1858\u20131919)[53]",
+        "Name(birth\u2013death)": "September 14, 1901[p]\u2013March 4, 1909",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "\u2013  1904",
+        "Vice President[18]": "Vacant\u00a0throughMarch 4, 1905  Charles W. Fairbanks"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "William Howard Taft(1857\u20131930)[55]",
+        "Name(birth\u2013death)": "March 4, 1909\u2013March 4, 1913",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "1908",
+        "Vice President[18]": "James S. Sherman[e]  Vacant\u00a0afterOctober 30, 1912"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Woodrow Wilson(1856\u20131924)[56]",
+        "Name(birth\u2013death)": "March 4, 1913\u2013March 4, 1921",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic",
+        "Election": "1912  1916",
+        "Vice President[18]": "Thomas R. Marshall"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Warren G. Harding(1865\u20131923)[57]",
+        "Name(birth\u2013death)": "March 4, 1921\u2013August 2, 1923[e]",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "1920",
+        "Vice President[18]": "Calvin Coolidge"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Calvin Coolidge(1872\u20131933)[58]",
+        "Name(birth\u2013death)": "August 2, 1923[q]\u2013March 4, 1929",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "\u2013  1924",
+        "Vice President[18]": "Vacant\u00a0throughMarch 4, 1925  Charles G. Dawes"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Herbert Hoover(1874\u20131964)[60]",
+        "Name(birth\u2013death)": "March 4, 1929\u2013March 4, 1933",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "1928",
+        "Vice President[18]": "Charles Curtis"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Franklin D. Roosevelt(1882\u20131945)[61]",
+        "Name(birth\u2013death)": "March 4, 1933\u2013April 12, 1945[e]",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic",
+        "Election": "1932  1936  1940  1944",
+        "Vice President[18]": "John Nance Garner  Henry A. Wallace  Harry S. Truman"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Harry S. Truman(1884\u20131972)[62]",
+        "Name(birth\u2013death)": "April 12, 1945[r]\u2013January 20, 1953",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic",
+        "Election": "\u2013  1948",
+        "Vice President[18]": "Vacant\u00a0throughJanuary 20, 1949  Alben W. Barkley"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Dwight D. Eisenhower(1890\u20131969)[64]",
+        "Name(birth\u2013death)": "January 20, 1953\u2013January 20, 1961",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "1952  1956",
+        "Vice President[18]": "Richard Nixon"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "John F. Kennedy(1917\u20131963)[65]",
+        "Name(birth\u2013death)": "January 20, 1961\u2013November 22, 1963[e]",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic",
+        "Election": "1960",
+        "Vice President[18]": "Lyndon B. Johnson"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Lyndon B. Johnson(1908\u20131973)[66]",
+        "Name(birth\u2013death)": "November 22, 1963[s]\u2013January 20, 1969",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic",
+        "Election": "\u2013  1964",
+        "Vice President[18]": "Vacant\u00a0throughJanuary 20, 1965  Hubert Humphrey"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Richard Nixon(1913\u20131994)[68]",
+        "Name(birth\u2013death)": "January 20, 1969\u2013August 9, 1974[h]",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "1968  1972",
+        "Vice President[18]": "Spiro Agnew[h]  Vacant:October 10 \u2013 December 6, 1973  Gerald Ford[t]"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Gerald Ford(1913\u20132006)[69]",
+        "Name(birth\u2013death)": "August 9, 1974[u]\u2013January 20, 1977",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "\u2013",
+        "Vice President[18]": "Vacant\u00a0throughDecember 19, 1974  Nelson Rockefeller[t]"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Jimmy Carter(1924\u20132024)[70]",
+        "Name(birth\u2013death)": "January 20, 1977\u2013January 20, 1981",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic",
+        "Election": "1976",
+        "Vice President[18]": "Walter Mondale"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Ronald Reagan(1911\u20132004)[71]",
+        "Name(birth\u2013death)": "January 20, 1981\u2013January 20, 1989",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "1980  1984",
+        "Vice President[18]": "George H. W. Bush"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "George H. W. Bush(1924\u20132018)[72]",
+        "Name(birth\u2013death)": "January 20, 1989\u2013January 20, 1993",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "1988",
+        "Vice President[18]": "Dan Quayle"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Bill Clinton(b. 1946)[73]",
+        "Name(birth\u2013death)": "January 20, 1993\u2013January 20, 2001",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic",
+        "Election": "1992  1996",
+        "Vice President[18]": "Al Gore"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "George W. Bush(b. 1946)[74]",
+        "Name(birth\u2013death)": "January 20, 2001\u2013January 20, 2009",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "2000  2004",
+        "Vice President[18]": "Dick Cheney"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Barack Obama(b. 1961)[75]",
+        "Name(birth\u2013death)": "January 20, 2009\u2013January 20, 2017",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic",
+        "Election": "2008  2012",
+        "Vice President[18]": "Joe Biden"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Donald Trump(b. 1946)[76]",
+        "Name(birth\u2013death)": "January 20, 2017\u2013January 20, 2021",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "2016",
+        "Vice President[18]": "Mike Pence"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Joe Biden(b. 1942)[77]",
+        "Name(birth\u2013death)": "January 20, 2021\u2013January 20, 2025",
+        "Term[16]": "",
+        "Party[b][17]": "Democratic",
+        "Election": "2020",
+        "Vice President[18]": "Kamala Harris"
+    },
+    {
+        "No.[a]": "",
+        "Portrait": "Donald Trump(b. 1946)[76]",
+        "Name(birth\u2013death)": "January 20, 2025\u2013Incumbent",
+        "Term[16]": "",
+        "Party[b][17]": "Republican",
+        "Election": "2024",
+        "Vice President[18]": "JD Vance"
+    }
+]
