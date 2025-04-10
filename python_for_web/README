@@ -1,0 +1,52 @@
+# Flask Web Application - Day 26 of 30 Days of Python
+
+This is a simple Flask web application created as part of the "30 Days of Python" challenge. The project demonstrates how to set up a basic web server using Flask, create HTML templates for rendering content dynamically, and use routing to manage multiple pages. 
+
+## Project Features:
+- **Home Page**: Displays a congratulatory message for completing Day 26 of the 30 Days of Python challenge.
+- **About Page**: A simple page that provides information about the project and its creator.
+
+---
+
+## Technologies Used:
+- **Python**: Flask is built on Python, and this project uses Python 3.12.
+- **Flask**: A lightweight web framework for building web applications.
+- **HTML**: Used for creating the structure and content of web pages.
+- **CSS**: Adds basic styling to the HTML pages for better user experience.
+
+---
+
+## Project Structure:
+--
+flask_project/ │ ├── app.py # Main Flask application script ├── templates/ │ ├── home.html # Home page HTML template with congratulatory message │ └── about.html # About page HTML template └── venv/ # Virtual environment for dependencies
+--
+
+---
+
+## Setup and Installation:
+
+### 1. Clone this repository:
+You can clone the repository to your local machine by running:
+
+```bash
+git clone https://github.com/yourusername/flask_project.git
+
+2. Navigate into the project directory:
+cd flask_project
+
+3. Create a virtual environment:
+Run the following command to create a virtual environment:
+
+python -m venv venv
+
+4. Activate the virtual environment:
+On Windows: source venv/Scripts/activate
+On Mac/Linux: source venv/bin/activate
+
+5. Install the required dependencies:
+pip install flask
+
+6. Run the application:
+Start the Flask app by running: python app.py
+
+
