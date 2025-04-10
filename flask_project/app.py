@@ -1,5 +1,6 @@
 from flask import Flask, request, jsonify, render_template
 from pymongo import MongoClient
+from myApp import api_app
 
 app = Flask(__name__)  # ✅ Correct use of __name__
 
@@ -7,6 +8,9 @@ app = Flask(__name__)  # ✅ Correct use of __name__
 client = MongoClient("mongodb://localhost:27017/")
 db = client["myDatabase"]
 collection = db["user"]
+
+# Register the API blueprint
+app.register_blueprint(api_app)
 
 # Route to show homepage
 @app.route('/')

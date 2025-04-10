@@ -1,13 +1,14 @@
 from flask import Blueprint, render_template
 from pymongo import MongoClient
 
+
 # Create the Blueprint instance
 api_app = Blueprint('myApp', __name__)
 
 # MongoDB connection (same database as in app.py)
 client = MongoClient("mongodb://localhost:27017/")
-db = client["myAppDB"]
-collection = db["users"]  # Change collection if needed
+db = client["myDatabase"]
+collection = db["user"]  # Change collection if needed
 
 # Route to render the items from MongoDB
 @api_app.route('/items', methods=['GET'])
